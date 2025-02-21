@@ -1,0 +1,8 @@
+.containner{
+    width: 500px;
+    height: 450px;
+    border:solid 2px red;
+    /* overflow: hidden; the hiddden function in  overflow  hide over data from the box */
+    /* overflow: scroll; here the over data will be showen using scroll bar which is shown in right side */
+    overflow: auto; 
+}/* the auto overflow function create the automatically function which is need */

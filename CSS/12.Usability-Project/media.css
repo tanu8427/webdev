@@ -1,0 +1,9 @@
+@media screen and (max-width: 1440){
+   .nav-toggle{
+    margin: 20px;
+    display: block;
+   }
+   .nav-link{
+    display: none;
+   }
+}

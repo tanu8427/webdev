@@ -1,0 +1,14 @@
+.container{
+    border:solid 2px red;
+}
+.img1{
+    float: left;  /*the content of the file will automatically adjust accordinally */
+}
+.img2{
+    float: right;
+}
+p{
+    clear: both;
+}
+
+/* the function clear and float should be used when we are working with text and images*/

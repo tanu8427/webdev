@@ -1,0 +1,17 @@
+nav{
+    background-color: rgb(204, 157, 96);
+    padding: 25px;
+    position: fixed;
+    
+}
+*{
+    margin: 0%;
+}
+a{
+    color: black;
+    text-decoration: none;
+    text-align: right;
+}
+body{
+    height: 1000px;
+}

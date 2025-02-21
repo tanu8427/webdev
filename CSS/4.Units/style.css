@@ -1,0 +1,23 @@
+header{
+    font-size: 2em;
+    background-color: aqua;
+    border: 2px  solid rgb(8, 167, 220) 
+
+}
+main{
+    font-size:2em;
+    border: 4px solid cornflowerblue;
+    width: 25%;   /* width means here it take 50 percent of the body*/
+}
+/* section{
+    border: 2px dashed brown;
+    width: 50%; /* here the section take 50 percent of the main  which means  that section take 25 percent of the whole body */
+
+
+section{
+    font-size: 3em;
+    border: 2px dashed brown;
+    width: 50vw; /* vw means that view width  */
+    height: 50vh;/*  vh basicall uesd for height purposes */
+
+}

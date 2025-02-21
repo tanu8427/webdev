@@ -1,0 +1,10 @@
+h1{
+    text-decoration: line-through; /* it make and line at the centre of the text */
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
+
+}
+#text{
+    text-indent: 40px; /* the indent function is used for provides the indent to the text*/
+}

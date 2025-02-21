@@ -1,0 +1,7 @@
+.box{
+    border: 20px solid red;
+    padding: 40px 50px 60px 70px;
+    margin: 30px;
+    height: 200px;
+    width: 100px;
+}

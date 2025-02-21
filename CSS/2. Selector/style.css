@@ -1,0 +1,23 @@
+*{
+    font-family: fantasy;
+}
+h1:hover{
+      color: brown;
+}
+
+#first{
+    font-size: 24px;
+    font-style: italic;
+}
+#first>p{
+    color: rgb(146, 65, 65) ;
+}
+h1{
+     color: rgb(42, 42, 35);
+}
+body{
+    background-color: blanchedalmond;
+}
+.purple{
+    color: blueviolet;
+}
